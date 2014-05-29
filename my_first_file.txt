@@ -3,3 +3,5 @@ This is my first file.
 Blah blah blah blah adding lines..
 
 oops i wanted to practice the mini commit!.
+
+more changes more changes more changes
